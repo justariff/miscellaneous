@@ -1,4 +1,4 @@
-num = int(input("Enter the number: "))
+num = int(input("Enter the number- "))
 if num<=1:
     print("Number is not a Prime")
 else:
