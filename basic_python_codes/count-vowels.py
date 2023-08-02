@@ -1,4 +1,4 @@
-a = input("ENter the string: ")
+a = input("ENter the string : ")
 vow = 'aeiou'
 count = 0
 for i in a:
