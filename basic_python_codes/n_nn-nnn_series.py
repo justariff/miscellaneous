@@ -1,4 +1,4 @@
-n = input("Enter the number n: ")
+n=input("Enter the number n: ")
 print("n is",n)
 nn = n + n
 print('nn is: ',nn)
