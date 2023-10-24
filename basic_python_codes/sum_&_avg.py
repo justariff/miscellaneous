@@ -1,4 +1,4 @@
-n = int(input("enter the length of the numbers: "))
+n=int(input("enter the length of the numbers: "))
 sum = 0
 avg = 0
 for i in range(1,n+1):
