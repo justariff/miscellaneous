@@ -1,4 +1,4 @@
-num  = int(input("enter the number: "))
+num =int(input("enter the number: "))
 sum_sq=0
 
 while num!=0:
